@@ -18,5 +18,5 @@ const numero = 21;
 console.log(`${nome}${cognome}${colorePreferito}${numero}`)
 
 document.getElementById("password_non_sicura").innerHTML = `
-    Questa è la tua password non sicura: <span>${nome}${cognome}${colorePreferito}${numero}</span>
+    <span class='text'>Questa è la tua password non sicura:</span> <span class='password'>${nome}${cognome}${colorePreferito}${numero}</span>
 `;

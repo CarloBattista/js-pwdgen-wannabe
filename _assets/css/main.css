@@ -4,12 +4,17 @@ body {
     color: #000;
 }
 
-#password_non_sicura {
+#password_non_sicura{
+    width: 100%;
+    text-align: left;
+}
+
+#password_non_sicura .text {
     font-size: 1rem;
     font-weight: 500;
 }
 
-#password_non_sicura span {
+#password_non_sicura .password {
     font-size: 1rem;
     font-weight: 700;
 }
