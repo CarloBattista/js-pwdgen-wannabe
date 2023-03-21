@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+#password_non_sicura {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+#password_non_sicura span {
+    font-size: 1rem;
+    font-weight: 700;
+}
